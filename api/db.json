@@ -1,0 +1,58 @@
+{
+  "voting": [
+    {
+      "userName": {
+        "firstName": "Dummy",
+        "lastName": "Dummy"
+      },
+      "gender": "Female",
+      "birthday": {
+        "date": "1",
+        "month": "2",
+        "year": "1900"
+      },
+      "contects": {
+        "cellNumber": "12346578",
+        "email": "testingCode@gmail.com"
+      },
+      "vote": "Apple",
+      "id": 1
+    },
+    {
+      "userName": {
+        "firstName": "Dummy",
+        "lastName": "Dummy"
+      },
+      "gender": "Male",
+      "birthday": {
+        "date": "9",
+        "month": "9",
+        "year": "1999"
+      },
+      "contects": {
+        "cellNumber": "12346578",
+        "email": "testingCode@gmail.com"
+      },
+      "vote": "Charlie",
+      "id": 2
+    },
+    {
+      "userName": {
+        "firstName": "Dummy",
+        "lastName": "Dummy"
+      },
+      "gender": "Male",
+      "birthday": {
+        "date": "1",
+        "month": "2",
+        "year": "1900"
+      },
+      "contects": {
+        "cellNumber": "12346578",
+        "email": "testingCode@gmail.com"
+      },
+      "vote": "Apple",
+      "id": 3
+    }
+  ]
+}
